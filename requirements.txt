@@ -1,0 +1,6 @@
+ursina==7.0.0
+torch==2.4.1
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.5.2
+PyQt6==6.7.1
