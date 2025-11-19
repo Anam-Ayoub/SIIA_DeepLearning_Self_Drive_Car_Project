@@ -9,3 +9,5 @@ Acima :
 Telaja       | 20
 Telfaza      | 39
 Makina_Sabon | 23
+
+
