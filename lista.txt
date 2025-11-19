@@ -1,4 +1,11 @@
-Acima : Atay
-Acima : Sokar
-Acima : Fanid
-Acima : Khobz
+Atay  | 2
+Sokar | 3
+Fanid | 12
+Khobz | 4
+Zecda | 5
+
+Acima :
+
+Telaja       | 20
+Telfaza      | 39
+Makina_Sabon | 23
