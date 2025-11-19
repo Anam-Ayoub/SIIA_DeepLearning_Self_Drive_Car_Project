@@ -1,4 +1,4 @@
-Atay
-Sokar
-Fanid
-Khobz
+Atay  | 2
+Sokar | 3
+Fanid | 12
+Khobz | 4
