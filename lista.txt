@@ -2,3 +2,4 @@ Atay  | 2
 Sokar | 3
 Fanid | 12
 Khobz | 4
+Zecda | 5
