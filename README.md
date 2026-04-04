@@ -28,8 +28,8 @@ The project consists of three main components:
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Anam-Ayoub/SIIA_DeepLearning_Self_Drive_Car_Project.git
+   cd SIIA_DeepLearning_Self_Drive_Car_Project
    ```
 
 2. **Create a Virtual Environment** (recommended):
@@ -84,7 +84,7 @@ The project consists of three main components:
 ## Project Structure
 
 ```
-your-repo-name/
+SIIA_DeepLearning_Self_Drive_Car_Project/
 ├── Main.py               # GUI menu for launching game modes and training
 ├── FINAL_GAME.py         # Classic game mode (manual driving)
 ├── AI_Game.py            # AI-controlled game mode
